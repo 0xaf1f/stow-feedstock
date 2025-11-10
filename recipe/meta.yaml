@@ -19,7 +19,7 @@ requirements:
   build:
     - m4 >=1.4
     - autoconf
-    - automake
+    - automake =1.16
     - make
   host:
     - perl
